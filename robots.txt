@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://political.wondermayank.indevs.in/sitemap.xml
